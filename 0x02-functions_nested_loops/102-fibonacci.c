@@ -23,6 +23,6 @@ int main(void)
 		if (count == 49)
 			printf("\n");
 		else
-			printf(",");
+			printf(", ");
 	}
 }
