@@ -1,10 +1,11 @@
 #include <stdio.h>
 
 /**
- *main - main block
- *Description: function that prints prints the first 50 Fibonacci numbers
- *starting with 1 and 2
- *Return: always 0
+ * main - main block
+ * Description: computes and prints the sum of all multiples of 3 or
+ * 5 below (excluded), followed by a new line
+ *
+ * Return: always 0
  */
 
 int main(void)
